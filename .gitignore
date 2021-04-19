@@ -1,0 +1,6 @@
+.vscode
+workspace.code-workspace
+commonsense-qa/data
+commonsense-qa/saved_models
+__pycache__
+
